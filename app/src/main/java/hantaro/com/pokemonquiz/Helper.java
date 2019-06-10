@@ -14,13 +14,13 @@ public class Helper {
     };
 
     public static String [][] getQuizText = {
-        {"picachu", "Bubblesaur", "charmander", "goomy"},
-            {"charizard", "goomy", "goodra", "sandile"},
-            {"blastoise", "charmander", "incineroar", "krokok"},
-            {"fletchling", "aipom", "growlithe", "torracat"},
-            {"torracat", "pikipek", "trumbeak", "pyukumuku"},
-            {"bewear", "spinda", "stufful", "lillipup"},
-            {"passimian", "drowzee", "spearow", "passimian"},
+        {"picachu","picachu", "Bubblesaur", "charmander", "goomy"},
+            {"goodra", "charizard", "goomy", "goodra", "sandile"},
+            {"blastoisem","blastoise", "charmander", "incineroar", "krokok"},
+            {"fletchling", "fletchling", "aipom", "growlithe", "torracat"},
+            {"torracat", "torracat", "pikipek", "trumbeak", "pyukumuku"},
+            {"bewear", "bewear", "spinda", "stufful", "lillipup"},
+            {"makuhita", "passimian", "drowzee", "spearow", "passimian"},
 
     };
 }
