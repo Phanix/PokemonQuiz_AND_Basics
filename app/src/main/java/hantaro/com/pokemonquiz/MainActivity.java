@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        if(currentQuestion < 6) {
+        if(currentQuestion < Helper.MAX_QUESTIONS) {
         if(v instanceof TextView){
             if(((TextView) v).getText().toString().equals(Helper.getQuizText[currentQuestion][0].toUpperCase())){
                 Toast.makeText(this, getResources().getString(R.string.question_right), Toast.LENGTH_SHORT).show();

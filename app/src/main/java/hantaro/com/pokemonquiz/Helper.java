@@ -2,6 +2,7 @@ package hantaro.com.pokemonquiz;
 
 public class Helper {
 
+    public static final int MAX_QUESTIONS = 6;
 
     public static int [] getPokemonImage = {
             R.drawable.pikachu,
