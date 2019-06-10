@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Pokemon Quiz</string>
+    <string name="question_right">Correct</string>
+    <string name="question_wrong">Wrong</string>
+    <string name="points">Points :</string>
+    <string name="play_again_text">PLAY AGAIN</string>
+    <string name="hint_pokemon_name">Enter the pokemon name</string>
+    <string name="bt_ok">OK</string>
 </resources>
